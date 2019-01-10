@@ -4,13 +4,11 @@
 
 Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-## Related Repository Issue
+## Related Repository Issue(s)
 
-- [ ] Link to the related issue(s)
-- [ ] Link to the related issue(s)
-- [ ] Link to the related issue(s)
-
-Fixes # (issue)
+- Fixes: # (ISSUE) 
+- Fixes: # (ISSUE)
+- Fixes: # (ISSUE)
 
 ## Type of change
 
