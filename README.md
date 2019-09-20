@@ -4,7 +4,7 @@
 
 # Drug Discovery Project Intro
 
-The Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery repository is collection of research and development projects for drug discovery. These projects use various methods of Artificiail Intelligence to identify possible candidates for drugs to help combat Acute Myeloid & Acute Lymphoblastic Leukemia.
+The Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery repository is collection of research and development projects for drug discovery. These projects use various methods of Artificial Intelligence to identify possible candidates for drugs to help combat Acute Myeloid & Acute Lymphoblastic Leukemia.
 
 This area of the project is headed by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics & Intel Software Innovator.
 
