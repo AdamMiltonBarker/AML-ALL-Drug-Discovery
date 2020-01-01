@@ -1,25 +1,30 @@
-# Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development
+# Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project
 
-![Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development](Media/Images/AML-ALL-Drug-Discovery.png)
+## AML & ALL Drug Discovery
 
-# Drug Discovery Project Intro
+![Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research Project](https://www.PeterMossAmlAllResearch.com/media/images/banner.png)
 
-The Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery repository is collection of research and development projects for drug discovery. These projects use various methods of Artificial Intelligence to identify possible candidates for drugs to help combat Acute Myeloid & Acute Lymphoblastic Leukemia.
+### Introduction
 
-This area of the project is headed by [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics & Intel Software Innovator.
+The Peter Moss Acute Myeloid & Lymphoblastic Leukemia Drug Discovery repository is collection of research and development projects for AML & ALL drug discovery. These projects use various methods of Artificial Intelligence to identify possible candidates for drugs to help combat Acute Myeloid & Acute Lymphoblastic Leukemia.
+
+This area of the project is headed by [Ho Leung Ng](https://www.leukemiaresearchfoundation.ai/team/ho-leung-ng/profile "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics & Intel Software Innovator.
+
+&nbsp;
 
 # About The AML Drug Discovery Problem
 
-Most current cancer drug research is on the discovery of targeted drugs. Targeted drugs are usually
-designed to block (in most cases) or activate a specific target protein. The targets are proteins that are either mutated or over expressed in the cancer relative to normal cells. Targeted drugs are usually less toxic than cytotoxic drugs. If the proper target for a cancer is identified, targeted drugs can be extremely effective.
+Most current cancer drug research is on the discovery of targeted drugs. Targeted drugs are usually designed to block (in most cases) or activate a specific target protein. The targets are proteins that are either mutated or over expressed in the cancer relative to normal cells. Targeted drugs are usually less toxic than cytotoxic drugs. If the proper target for a cancer is identified, targeted drugs can be extremely effective.
 
 Much research is required to properly identify potential targets for each subtype of cancer. For AML, the different subtypes are usually associated with distinct sets of targets. A good starting point to learn about AML targets is the Tyner et al paper published in 2018 in Nature v562, 526. Once a target is identified, researchers usually experimentally screen thousands of compounds to identify those that are active in an approach called high-throughput screening. This is too costly for all but drug companies and a few highly resourced academic labs. Alternatively, if the 3D structure of the target protein is known, one can computationally screen compounds by calculating their chemical fit to the binding site. The highest scoring compounds are tested experimentally. One can apply ML methods and develop new ways of scoring compounds.
 
-_[Read full article by Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Read full article by Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics - Intel Software Innovator_
+_[Read full article by Ho Leung Ng](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/Articles/AML-Drug-Discovery-Background.md "Read full article by Ho  Leung Ng")_
+
+&nbsp;
 
 ## Potential Research Projects
 
-Ideas for potential projects for the Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development
+Potential research projects for the Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development
 
 1. Discovery of anthracyclines that are predicted to be less cardiotoxic.
 2. Discovery of anthracyclines that are predicted to be less associated with drug resistance.
@@ -28,61 +33,35 @@ Ideas for potential projects for the Peter Moss Acute Myeloid/Lymphoblastic Leuk
 4. Choose immunomodulatory targets such as STING. Identify new bioactive molecules for these targets.
 5. Develop models that can predict cardiotoxicity based on chemical structure of drugs.
 
-_[Read full article by Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Read full article by Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics - Intel Software Innovator_
+_[Read full article by Ho Leung Ng](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/Articles/AML-Drug-Discovery-Background.md "Read full article by Ho  Leung Ng")_
+
+&nbsp;
 
 # ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
 
-ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
+The team is very excited that we have been granted permission from Alan Aspuru-Guzik, formerly Professor at Harvard University, Department of Chemistry and Chemical Biology and now at the University of Toronto, to integrate code based on ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) into the Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project.
 
-Thanks to project team member Ho Leung Ng, the team has been granted permission from the owners of ORGANIC to integrate their project into the Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development which we the team are very grateful for!
+Big thank you to ORGANIC & Ho Leung Ng who has made this possible. The team are very grateful for this opportunity! We will be using this research and code as a foundation for our drug discovery project that will ultimately be trained to find possible candidates for new drugs to battle Acute Myeloid/Lymphoblastic Leukemia.
 
-# About The Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project
+https://github.com/aspuru-guzik-group/ORGANIC
 
-![The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program](Media/Images/Page-Banner.png)
+__ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.__
 
-The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Research Project is an open source project with the goals of leveraging Artificial Intelligence to help detect AML/ALL and discover potential candidates for drugs to help combat the diseases. The project is in memory of Peter Edward Moss who lost his battle with Acute Myeloid Leukemia in August 2019.
-
-The project is being coordinated by a group of volunteers with experience in computer vision / natural language processing, Leukemia research, Biochemistry, Molecular Biophysics, Immunology and Bioinformation.
-
-The purpose of the project is to share public information related to AML/ALL, as well as open source projects aimed at early dectection with convolutional neural networks, using natural language understanding for AML/ALL chatbots, and R&D for discovering potential candidates for drugs for AML/ALL.
-
-## Project Team
-
-The official team is currently made up of:
-
-- [Adam Milton-Barker](https://github.com/orgs/AMLResearchProject/people/AdamMiltonBarker "Adam Milton-Barker") - Bigfinite IoT Network Engineer & Intel Software Innovator
-
-- [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng") - Kansas State University, Dept. Biochemistry & Molecular Biophysics - Intel Software Innovator
-
-- [Amita Kapoor](https://github.com/orgs/AMLResearchProject/people/amita-kapoor "Amita Kapoor") - Associate Professor @ Delhi University, New Dehli, India
-
-- [Estela Cabezas](https://www.facebook.com/Esteeelaa "Estela Cabezas") - Degree in Biotechnology @ Universitat de Vic, Catalunya, Spain - Intel Software Innovator
-
-- [Salvatore Raieli​](https://github.com/orgs/AMLResearchProject/people/SalvatoreRa "Salvatore Raieli​") - Salvatore Raieli attended a Biotechnology degree at a university in Paris for his PhD.
-
-- [Rishabh Banga](https://github.com/orgs/AMLResearchProject/people/rishabhbanga "Rishabh Banga")​ - Software Dev @ Seamens & Intel Software Innovator
-
-# The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program
-
-![The Peter Moss Acute Myeloid / Lymphoblastic Leukemia AI Student Program](Media/Images/Student-Page-Banner.png)
-
-The Peter Moss Aml/All AI Student Program​ provides college & university students with real world projects & experience in working with AI for medical purposes, helping further their education and understanding of real world medical AI systems.
-
-The Student Program is headed by Peter Moss Aml/All AI Research Project​ team members [Ho Leung Ng](https://github.com/orgs/AMLResearchProject/people/holeung "Ho  Leung Ng")​ - Dept. Biochemistry & Molecular Biophysics @ Kansas State University, and [Amita Kapoor](https://github.com/orgs/AMLResearchProject/people/amita-kapoor "Amita Kapoor") - Associate Professor @ Delhi University.
-
-If you would like to join the Student Developer Program please answer the questions on the [Private AML/ALL AI Student Program Chat Group​](https://www.facebook.com/groups/AmlAllPrivateStudentAiProgram "Private AML/ALL AI Student Program Chat Group​").
-
-# Professional Volunteers
-
-If you would like to volunteer to the research project or student program as a professional, please use the contact form on our website and select **Professional Volunteer**.
-
-# Community Driven
-
-The project was initially created with the hope other developers and people in the medical industry may find the software and tutorials useful, and may contribute back to the Github community helping improve the project. Feel free to submit pull requests with your suggested edits / bug fixes / additions to the related repositories on Github.
+&nbsp;
 
 # Contributing
 
-We welcome contributions of the project. Please read [CONTRIBUTING.md](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/CONTRIBUTING.md "CONTRIBUTING.md") for details on our code of conduct, and the process for submitting pull requests.
+The Peter Moss Leukemia Research Foundation & Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research project encourages and welcomes code contributions, bug fixes and enhancements from the Github community.
+
+Please read the [CONTRIBUTING](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/CONTRIBUTING.md "CONTRIBUTING") document for a full guide to forking our repositories and submitting your pull requests. You will also find information about our code of conduct on this page.
+
+## Team Contributors
+
+The following Peter Moss Acute Myeloid & Lymphoblastic Leukemia AI Research project team members have contributed towards this repository:
+
+- [Ho Leung Ng](https://www.leukemiaresearchfoundation.ai/team/ho-leung-ng/profile "Ho Leung Ng") - Peter Moss Leukemia Research Foundation. Kansas, USA
+
+&nbsp;
 
 # Versioning
 
@@ -90,7 +69,7 @@ We use SemVer for versioning. For the versions available, see [Releases](https:/
 
 # License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/LICENSE "LICENSE") file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/AMLResearchProject/AML-ALL-Drug-Discovery/blob/master/LICENSE.md "LICENSE") file for details.
 
 # Bugs/Issues
 
