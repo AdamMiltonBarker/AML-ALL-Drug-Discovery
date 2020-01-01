@@ -6,25 +6,16 @@
 
 ## Ho Leung Ng, Kansas State University
 
-AML remains a difficult disease to treat. More than other leukemias, it consists of a broad range of
-different subtypes that differ at the microscopic and genetic level. These subtypes have different
-prognoses and therapies.
+AML remains a difficult disease to treat. More than other leukemias, it consists of a broad range of different subtypes that differ at the microscopic and genetic level. These subtypes have different prognoses and therapies.
 
 &nbsp;
 
-Chemotherapy agents can generally be divided into three classes: 1) cytotoxic and non-targeted, 2)
-targeted, and 3) immunomodulatory. Drugs from all three classes are used to treat AML.
+Chemotherapy agents can generally be divided into three classes: 1) cytotoxic and non-targeted, 2) targeted, and 3) immunomodulatory. Drugs from all three classes are used to treat AML.
 
 &nbsp;
 
-Non-targeted, cytotoxic agents remain the foundation of AML treatment. These drugs are older and are
-what most lay people think of when they hear the term, “chemotherapy”. These drugs are toxic. Cancer
-cells, because of their high growth and metabolic rates, are more sensitive to cytotoxic drugs. In AML,
-they are used to quickly reduce the numbers of leukemic cells, providing quick symptom relief and are
-sometimes effective long-term treatment. Their toxicity limits their use for older, sicker patients. The most commonly used cytotoxic drugs for AML include cytarabine (ara-C) and anthracyclines
-(daunorubicin and idarubicin). In many cases, the leukemia eventually develops resistance to the drug,
-and the patient relapses. Key research goals include 1) discovery of new cytotoxic agents that work by
-new mechanisms, 2) discovery of less toxic variants of current cytotoxic drugs, 3) discovery of drugs for which drug resistance is less likely to develop or are effective in cases of drug resistant leukemia. A possible computational approach for the AML AI drug discovery group is to identify new molecules that are chemically similar to those known to be chemically active. We can use ML to select for molecules less likely to be associated with toxicity or drug resistance.
+Non-targeted, cytotoxic agents remain the foundation of AML treatment. These drugs are older and are what most lay people think of when they hear the term, “chemotherapy”. These drugs are toxic. Cancer cells, because of their high growth and metabolic rates, are more sensitive to cytotoxic drugs. In AML, they are used to quickly reduce the numbers of leukemic cells, providing quick symptom relief and are
+sometimes effective long-term treatment. Their toxicity limits their use for older, sicker patients. The most commonly used cytotoxic drugs for AML include cytarabine (ara-C) and anthracyclines (daunorubicin and idarubicin). In many cases, the leukemia eventually develops resistance to the drug, and the patient relapses. Key research goals include 1) discovery of new cytotoxic agents that work by new mechanisms, 2) discovery of less toxic variants of current cytotoxic drugs, 3) discovery of drugs for which drug resistance is less likely to develop or are effective in cases of drug resistant leukemia. A possible computational approach for the AML AI drug discovery group is to identify new molecules that are chemically similar to those known to be chemically active. We can use ML to select for molecules less likely to be associated with toxicity or drug resistance.
 
 &nbsp;
 

@@ -39,9 +39,13 @@ _[Read full article by Ho Leung Ng](https://github.com/AMLResearchProject/AML-AL
 
 # ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry)
 
-ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.
+The team is very excited that we have been granted permission from Alan Aspuru-Guzik, formerly Professor at Harvard University, Department of Chemistry and Chemical Biology and now at the University of Toronto, to integrate code based on ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) into the Peter Moss Acute Myeloid/Lymphoblastic Leukemia AI Research Project.
 
-Thanks to project team member Ho Leung Ng, the team has been granted permission from the owners of ORGANIC to integrate their project into the Peter Moss Acute Myeloid/Lymphoblastic Leukemia Drug Discovery Research & Development which we the team are very grateful for!
+Big thank you to ORGANIC & Ho Leung Ng who has made this possible. The team are very grateful for this opportunity! We will be using this research and code as a foundation for our drug discovery project that will ultimately be trained to find possible candidates for new drugs to battle Acute Myeloid/Lymphoblastic Leukemia.
+
+https://github.com/aspuru-guzik-group/ORGANIC
+
+__ORGANIC (Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry) is an efficient molecular generation tool, able to create molecules with desired properties. It has a user-oriented interface, and doesn't require a HPC cluster. Feel free to check our article about ORGANIC and/or contact the developers if you have any issue or are interested in collaborations.__
 
 &nbsp;
 
